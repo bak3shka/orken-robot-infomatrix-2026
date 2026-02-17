@@ -90,3 +90,9 @@ Core control functions:
 .
 ├── README.md
 └── orken_robot.ino
+
+## Submission Links (Infomatrix Asia 2026)
+
+- **Product Demo Video:** [YouTube](https://youtu.be/JLYbQbTHHys)
+- **Startup Pitch Deck:** [Google Slides](https://docs.google.com/presentation/d/1T90bJU_dUtlaM3bAGNIbP5MnqOs_f7LU/edit?usp=sharing)
+
